@@ -31,7 +31,8 @@
 
 
 ### Microsoft | Azure Identity and Access Management (June 2021 - August 2023)
-![[Microsoft Logo]](https://seeklogo.com/vector-logo/168319/microsoft)
+![Microsoft Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/100px-Microsoft_logo.svg.png)
+
 
 
 ### VMware | End User Computing (January 2018 - May 2021)
