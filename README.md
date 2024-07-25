@@ -31,9 +31,9 @@
 
 ![Microsoft Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/20px-Microsoft_logo.svg.png)  Microsoft | Azure Identity and Access Management (June 2021 - August 2023)
 
-![VMware Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/VMware_logo.svg/20px-VMware_logo.svg.png) VMware | End User Computing (January 2018 - May 2021)
+![VMware Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/VMware_logo.svg/20px-VMware_logo.svg.png) VMware | End User Computing (January 2018 - May 2021)
 
-![Capgemini Logo](https://example.com/capgemini_logo.png =20x20)  Capgemini | Bayer Pharmaceutical Project (March 2016 - December 2017)
+![Capgemini Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Capgemini_logo.svg/20px-VMware_logo.svg.png)  Capgemini | Bayer Pharmaceutical Project (March 2016 - December 2017)
 
 ### Reliance JIO | 4G Project (August 2015 - December 2015)
 ![Reliance JIO Logo](images/reliance_jio_logo.png)
