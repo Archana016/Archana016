@@ -42,7 +42,7 @@
 
 
 ### Microsoft | Azure Identity and Access Management (June 2021 - August 2023)
-![Microsoft Logo](images/microsoft_logo.png)
+![[Microsoft Logo]](https://seeklogo.com/vector-logo/168319/microsoft)
 
 
 ### Stadium Essentials | Remote (May 2024 - Present)
