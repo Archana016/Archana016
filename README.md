@@ -25,4 +25,31 @@
 
 <br />
 
-#
+# My Portfolio
+
+## Work Experience
+
+### Reliance JIO | 4G Project (August 2015 - December 2015)
+![Reliance JIO Logo](images/reliance_jio_logo.png)
+
+
+### Capgemini | Bayer Pharmaceutical Project (March 2016 - December 2017)
+![Capgemini Logo](images/capgemini_logo.png)
+
+
+### VMware | End User Computing (January 2018 - May 2021)
+![VMware Logo](images/vmware_logo.png)
+
+
+### Microsoft | Azure Identity and Access Management (June 2021 - August 2023)
+![Microsoft Logo](images/microsoft_logo.png)
+
+
+### Stadium Essentials | Remote (May 2024 - Present)
+![Stadium Essentials Logo](images/stadium_essentials_logo.png)
+
+
+### CAI3p0 | Conversational AI Project (July 2024 - Present)
+![CAI3p0 Logo](images/cai3p0_logo.png)
+
+
