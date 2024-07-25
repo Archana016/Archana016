@@ -29,7 +29,6 @@
 
 ## Work Experience
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg]
 ![Microsoft Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/30px-Microsoft_logo.svg.png)
 ### Microsoft | Azure Identity and Access Management (June 2021 - August 2023)
 
