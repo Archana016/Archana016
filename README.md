@@ -29,7 +29,8 @@
 
 ## Work Experience
 
-![Microsoft Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/30px-Microsoft_logo.svg.png)### Microsoft | Azure Identity and Access Management (June 2021 - August 2023)
+![Microsoft Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/30px-Microsoft_logo.svg.png)
+### Microsoft | Azure Identity and Access Management (June 2021 - August 2023)
 
 ### VMware | End User Computing (January 2018 - May 2021)
 ![VMware Logo](images/vmware_logo.png)
